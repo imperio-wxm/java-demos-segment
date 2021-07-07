@@ -30,7 +30,7 @@
         <maven.compiler.source>1.8</maven.compiler.source>
         <maven.compiler.target>1.8</maven.compiler.target>
         <brave.version>5.1.4</brave.version>
-        <log4j2.version>2.10.0</log4j2.version>
+        <log4j2.version>2.13.3</log4j2.version>
     </properties>
 
     <dependencyManagement>
